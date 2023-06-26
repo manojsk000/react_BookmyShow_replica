@@ -1,0 +1,7 @@
+.carousal{
+    background-color: rgb(218, 218, 218);
+}
+.carousal img{
+    margin: 6px;
+    border-radius: 4px;
+}

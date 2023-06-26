@@ -1,0 +1,38 @@
+.favourites{
+    background-color: rgb(218,218,218);
+}
+.list{
+    background-color:rgb(116, 180, 183);
+    margin: 5px 0px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.list .movieList{
+    margin-left: 10px;
+}
+.list .button{
+    margin-top: 13px;
+    margin-right: 20px;
+}
+.movieList h2, p{
+    margin: 5px 0px;
+}
+.background{
+    background-color:rgb(47, 47, 47);
+}
+.button button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: transparent;
+    box-shadow: 0px 0px 1px black;
+}
+.button img{
+    height: 20px;
+    width: 20px;
+}
+.favourites .heading h1{
+    padding: 10px 10px;
+}
+

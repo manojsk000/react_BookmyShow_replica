@@ -1,0 +1,75 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Mufti",
+      "genre": "thriller",
+      "rating": 4,
+      "language": "Kannada"
+    },
+    {
+      "id": 2,
+      "title": "kgf",
+      "genre": "Action",
+      "rating": 4.8,
+      "language": "Kannada"
+    },
+    {
+      "id": 3,
+      "title": "jab tak hai jaan",
+      "genre": "comedy",
+      "rating": 4.5,
+      "language": "Hindi"
+    },
+    {
+      "id": 4,
+      "title": "war",
+      "genre": "Action Thriller",
+      "rating": 4.9,
+      "language": "Hindi"
+    },
+    {
+      "id": 5,
+      "title": "American psycho",
+      "genre": "Action",
+      "rating": 5,
+      "language": "English"
+    },
+    {
+      "name": "Farzi",
+      "genre": "Action",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "title": "The Kerala Story",
+      "genre": "War",
+      "rating": "4.9",
+      "id": 7
+    },
+    {
+      "title": "URI",
+      "genre": "War",
+      "rating": "5",
+      "id": 8
+    },
+    {
+      "title": "guardians of galaxy",
+      "genre": "Action",
+      "rating": "4",
+      "id": 9
+    },
+    {
+      "title": "fast and furious X",
+      "genre": "Action",
+      "rating": "4.6",
+      "id": 10
+    },
+    {
+      "title": "Adipurush",
+      "genre": "Action?Adventure",
+      "rating": "6.4",
+      "id": 11
+    }
+  ]
+}
